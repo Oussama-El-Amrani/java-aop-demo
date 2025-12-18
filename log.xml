@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-12-17T15:18:49.992680268Z</date>
+  <millis>1765984729992</millis>
+  <nanos>680268</nanos>
+  <sequence>0</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 2 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:49.998389945Z</date>
+  <millis>1765984729998</millis>
+  <nanos>389945</nanos>
+  <sequence>1</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 0 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:49.998745614Z</date>
+  <millis>1765984729998</millis>
+  <nanos>745614</nanos>
+  <sequence>2</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 0 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:49.999401971Z</date>
+  <millis>1765984729999</millis>
+  <nanos>401971</nanos>
+  <sequence>3</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 0 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:49.999736266Z</date>
+  <millis>1765984729999</millis>
+  <nanos>736266</nanos>
+  <sequence>4</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 0 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:50.000028243Z</date>
+  <millis>1765984730000</millis>
+  <nanos>28243</nanos>
+  <sequence>5</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 1 ms</message>
+</record>
+<record>
+  <date>2025-12-17T15:18:50.000774704Z</date>
+  <millis>1765984730000</millis>
+  <nanos>774704</nanos>
+  <sequence>6</sequence>
+  <logger>me.elamranioussama.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.elamranioussama.aspects.LoggingAspect</class>
+  <method>afterAdvice</method>
+  <thread>1</thread>
+  <message>Duration: 0 ms</message>
+</record>
+</log>
